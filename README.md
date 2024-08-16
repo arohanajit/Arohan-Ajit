@@ -1,7 +1,7 @@
 # Arohan-Ajit
 
 # 💫 About Me:
-I'm a full stack software developer with knowledge of Python & JavaScript
+As a passionate software developer with a Master's in Computer Science from North Carolina State University, I thrive on turning complex challenges into elegant solutions. My journey has taken me from crafting responsive web applications at Accenture to optimizing critical API endpoints at Chirpn. With expertise in Python, ReactJS, Node.js, and cloud technologies like AWS and Azure, I'm always eager to dive into new technologies and push the boundaries of what's possible.
 
 Here is a link to my personal front end web development portfolio website: [Arohan Ajit](https://arohanajit.github.io/)
 
