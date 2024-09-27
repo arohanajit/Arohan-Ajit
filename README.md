@@ -3,7 +3,7 @@
 # 💫 About Me:
 As a passionate software developer with a Master's in Computer Science from North Carolina State University, I thrive on turning complex challenges into elegant solutions. My journey has taken me from crafting responsive web applications at Accenture to optimizing critical API endpoints at Chirpn. With expertise in Python, ReactJS, Node.js, and cloud technologies like AWS and Azure, I'm always eager to dive into new technologies and push the boundaries of what's possible.
 
-Here is a link to my personal front end web development portfolio website: [Arohan Ajit](https://arohanajit.github.io/)
+Here is a link to my personal portfolio website: [Arohan Ajit](https://arohanajit.github.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arohanajit/) 
